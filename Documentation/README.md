@@ -1,6 +1,19 @@
-# 📚 Web Development Resources
+# 📚 Web Dev Mastery Documentation
 
-Welcome to the **Documentation** section of the Web Dev Mastery challenge! Below you'll find a curated list of resources, primarily from **Microsoft Learn**, to guide you through both frontend and backend web development concepts. Use these resources to complete the projects available in this repository.
+Welcome to the **Documentation Hub** of the Web Dev Mastery upskilling challenge! Below you'll find curated resources from **Microsoft Learn** and other helpful materials to guide you through frontend and backend web development. Be sure to follow the structured learning path to maximize your experience.
+
+---
+
+## 🎓 **Microsoft Learn Web Development Fundamentals Collection**
+
+Each study session will dive deep into these learning modules, providing you with real-time guidance and practical application of the concepts.
+
+🚀 **[Click here to access the full Microsoft Learn Web Development Collection!](#)** 🚀
+
+[![Microsoft Learn Collection Banner](https://github.com/PUP-MSC-Web-Development/Upskilling-Challenge/blob/main/assets/1.jpg)](#)  
+(*Click on the banner above to start your learning journey!*)
+
+This collection includes interactive tutorials, hands-on exercises, and quizzes that cover the essentials of both **frontend** and **backend** development.
 
 ---
 
