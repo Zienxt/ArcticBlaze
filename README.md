@@ -12,8 +12,8 @@ You will complete a series of projects to apply your learning and earn certifica
 ## **Learning Paths**
 The challenge consists of both **asynchronous** and **synchronous** learning opportunities:
 
-- **Asynchronous Learning**: Work at your own pace by completing the projects and reviewing the resources in this repository. 
-- **Synchronous Learning**: Join our weekly/bi-weekly **Microsoft Teams study sessions** where we cover key concepts, live-code, and answer your questions.
+- **Asynchronous Learning**: Work at your own pace by completing the projects and reviewing the [resources](./Documentation/README.md) in this repository. 
+- **Synchronous Learning**: Join our scheduled **Microsoft Teams study sessions** where we cover key concepts, live-code, and answer your questions.
 
 ## **How to Get Started**
 1. **Clone this repository**:
