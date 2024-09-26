@@ -1,6 +1,6 @@
-# 📚 Web Dev Mastery Documentation
+# 📚 MSC Web Development Upskilling Challenge
 
-Welcome to the **Documentation Hub** of the Web Dev Mastery upskilling challenge! Below you'll find curated resources from **Microsoft Learn** and other helpful materials to guide you through frontend and backend web development. Be sure to follow the structured learning path to maximize your experience.
+Welcome to the **Documentation Hub** of the Web Development Upskilling Challenge! Below you'll find curated resources from **Microsoft Learn** and other helpful materials to guide you through frontend and backend web development. Be sure to follow the structured learning path to maximize your experience.
 
 ---
 
