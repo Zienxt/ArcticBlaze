@@ -5,7 +5,7 @@ Welcome to the **Microsoft Student Community's Web Development Upskilling Challe
 ## **Overview**
 This program is split into two key learning tracks: 
 - **Frontend Development**: Learn how to create beautiful and responsive websites using HTML, CSS, and JavaScript.
-- **Backend Development**: Build the server-side logic using Node.js, Express, and databases (SQL/NoSQL).
+- **Backend Development**: Build the server-side logic using Node.js, Express, and MongoDB.
 
 You will complete a series of projects to apply your learning and earn certifications for both frontend and backend development.
 
