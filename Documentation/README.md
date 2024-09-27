@@ -8,9 +8,9 @@ Welcome to the **Documentation Hub** of the Web Development Upskilling Challenge
 
 Each study session will dive deep into these learning modules, providing you with real-time guidance and practical application of the concepts.
 
-🚀 **[Click here to access the full Microsoft Learn Web Development Collection!](https://learn.microsoft.com/en-us/collections/j066fz8mj6r038?&sharingId=4E4EB56BC659F74B)** 🚀
+🚀 **[Click here to access the full Microsoft Learn Web Development Collection!](https://learn.microsoft.com/en-us/plans/o3ppsdnmr5oe32?sharingId=4E4EB56BC659F74B)** 🚀
 
-[![Microsoft Learn Collection Banner](https://github.com/PUP-MSC-Web-Development/Upskilling-Challenge/blob/main/assets/1.jpg)](https://learn.microsoft.com/en-us/collections/j066fz8mj6r038?&sharingId=4E4EB56BC659F74B)  
+[![Microsoft Learn Collection Banner](https://github.com/PUP-MSC-Web-Development/Upskilling-Challenge/blob/main/assets/1.jpg)](https://learn.microsoft.com/en-us/plans/o3ppsdnmr5oe32?sharingId=4E4EB56BC659F74B)  
 (*Click on the banner above to start your learning journey!*)
 
 This collection includes interactive tutorials, hands-on exercises, and quizzes that cover the essentials of both **frontend** and **backend** development.
