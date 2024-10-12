@@ -126,23 +126,6 @@
 ---
 
 
-### Project 4: Cart & Checkout (Phase 3)
-
-
-**Concept:** Simple cart management and checkout  
-**Requirements:**
-- 🛒 **Cart API:** Add, update, or remove products from the cart
-- 💾 **Local Storage:** Store cart details locally between sessions
-- 🧾 **Checkout Form:** Collect user shipping info
-- 📄 **Order Summary:** Display products, quantities, and total cost
-
-
-**Difficulty:** ★★★★☆
-
-
----
-
-
 ### Project 5: Fully Functioning E-commerce Website (Phase 4)
 
 
